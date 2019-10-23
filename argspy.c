@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "argspy.h"
 
 int main(int argc, char **argv) {
 	for (int i = 0; i < argc; i++)
